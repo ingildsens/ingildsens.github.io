@@ -25,4 +25,4 @@ Output:
 Bonus: I’ve also created this script, which is used to determine the cheapest license combination for a license group. [https://github.com/ingildsens/ms365-license-tools/blob/main/reportCalculateCheapestPlanCombination.ps1](https://github.com/ingildsens/ms365-license-tools/blob/main/reportCalculateCheapestPlanCombination.ps1)
 
 Output:
-![Crepe](https://github.com/ingildsens/ingildsens.github.io/blob/master/.github/images/2021-01-04%2021_43_42-Window.png)
+![Crepe](https://github.com/ingildsens/ingildsens.github.io/raw/master/.github/images/2021-01-04%2021_43_42-Window.png)
