@@ -20,10 +20,9 @@ After a while I found this session from directionsonmicrosoft where they explain
 I’ve worked on the script for some weeks, and it seems to be ready for some alpha runs. The script can be found at [https://github.com/ingildsens/ms365-license-tools/blob/main/reportCheckIfLicenseGroupIsComplaint.ps1](https://github.com/ingildsens/ms365-license-tools/blob/main/reportCheckIfLicenseGroupIsComplaint.ps1) .
 
 Output:
-![Crepe](https://github.com/ingildsens/ingildsens.github.io/blob/main/.github/images/2021-01-04%2021_45_11-Window.png)
-
+![Crepe](https://github.com/ingildsens/ingildsens.github.io/blob/master/.github/images/2021-01-04%2021_45_11-Window.png)
 
 Bonus: I’ve also created this script, which is used to determine the cheapest license combination for a license group. [https://github.com/ingildsens/ms365-license-tools/blob/main/reportCalculateCheapestPlanCombination.ps1](https://github.com/ingildsens/ms365-license-tools/blob/main/reportCalculateCheapestPlanCombination.ps1)
 
 Output:
-![Crepe](https://github.com/ingildsens/ingildsens.github.io/blob/main/.github/images/2021-01-04%2021_43_42-Window.png)
+![Crepe](https://github.com/ingildsens/ingildsens.github.io/blob/master/.github/images/2021-01-04%2021_43_42-Window.png)
