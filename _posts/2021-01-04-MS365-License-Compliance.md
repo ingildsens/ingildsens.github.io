@@ -22,6 +22,8 @@ I’ve worked on the script for some weeks, and it seems to be ready for some al
 Output:
 ![Crepe](https://github.com/ingildsens/ingildsens.github.io/raw/master/.github/images/2021-01-04%2021_45_11-Window.png)
 
+Update: This script is now created as a webpage [https://ms365licensetools.z6.web.core.windows.net/](https://ms365licensetools.z6.web.core.windows.net/), with Azure Storage Account (Static Webpage) and Azure Functions, I got inspiration from this video [https://youtu.be/UblF7aJWqAA](https://youtu.be/UblF7aJWqAA).
+
 Bonus: I’ve also created this script, which is used to determine the cheapest license combination for a license group. [https://github.com/ingildsens/ms365-license-tools/blob/main/reportCalculateCheapestPlanCombination.ps1](https://github.com/ingildsens/ms365-license-tools/blob/main/reportCalculateCheapestPlanCombination.ps1)
 
 Output:
